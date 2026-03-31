@@ -29,15 +29,7 @@
 
 Ответ:
 Развернул Git lab через yandex cloud
-https://github.com/Delerosha/dz_netology-8-03/blob/main/yandex2.PNG?raw=true
 
-
-https://github.com/Delerosha/dz_netology-8-03/blob/main/Yandex.PNG?raw=true
-
-
-https://github.com/Delerosha/dz_netology-8-03/blob/main/config.PNG?raw=true
-
----<img width="2208" height="975" alt="ДЗ 11111111" src="https://github.com/user-attachments/assets/fe6704f5-6633-4b3b-80ba-578a818a6007" />
 
 
 ### Задание 2
