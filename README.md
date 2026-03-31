@@ -43,7 +43,8 @@
 В качестве ответа в шаблон с решением добавьте:
 файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 <img width="1318" height="970" alt="dz222" src="https://github.com/user-attachments/assets/e26fc68d-2b5c-4958-8e6c-361e3446a838" />
-<img width="1915" height="448" alt="dz22" src="https://github.com/user-attachments/assets/8e517f9c-8d3c-43d1-8018-c235c9a9388c" />
+<img width="1912" height="604" alt="dz22" src="https://github.com/user-attachments/assets/920f094b-6324-4241-95fc-948c7c8dfe72" />
+
 
 
 
