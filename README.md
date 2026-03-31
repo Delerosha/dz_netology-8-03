@@ -29,6 +29,10 @@
 
 Ответ:
 Развернул Git lab через yandex cloud
+<img width="2208" height="975" alt="Yandex 1" src="https://github.com/user-attachments/assets/dd5bef49-1f40-4846-8112-4e8d0689b5af" />
+<img width="2493" height="241" alt="Yandex 2" src="https://github.com/user-attachments/assets/aaa976cd-84b5-4812-9d25-9b784c0de561" />
+<img width="2202" height="785" alt="config" src="https://github.com/user-attachments/assets/9bf51b84-8efa-4d94-a385-a183dac264c7" />
+
 
 
 
