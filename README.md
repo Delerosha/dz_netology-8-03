@@ -30,32 +30,28 @@
 Ответ:
 Развернул Git lab через yandex cloud
 https://github.com/Delerosha/dz_netology-8-03/blob/main/yandex2.PNG?raw=true
+
+
 https://github.com/Delerosha/dz_netology-8-03/blob/main/Yandex.PNG?raw=true
 
 
+https://github.com/Delerosha/dz_netology-8-03/blob/main/config.PNG?raw=true
 
 ---
 
 ### Задание 2
+Что нужно сделать:
+Запушьте репозиторий на GitLab, изменив origin. Это изучалось на занятии по Git.
+Создайте .gitlab-ci.yml, описав в нём все необходимые, на ваш взгляд, этапы.
+В качестве ответа в шаблон с решением добавьте:
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
+файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 
 
+скриншоты с успешно собранными сборками.
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+https://github.com/Delerosha/dz_netology-8-03/blob/main/ci.yml.PNG?raw=true
+
+https://github.com/Delerosha/dz_netology-8-03/blob/main/Runners.PNG?raw=true
+
+https://github.com/Delerosha/dz_netology-8-03/blob/main/Runner%202.PNG?raw=true
