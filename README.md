@@ -40,32 +40,8 @@
 Что нужно сделать:
 Запушьте репозиторий на GitLab, изменив origin. Это изучалось на занятии по Git.
 Создайте .gitlab-ci.yml, описав в нём все необходимые, на ваш взгляд, этапы.
-В качестве ответа в шаблон с решением добавьте:
-файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
+
 <img width="1318" height="970" alt="dz222" src="https://github.com/user-attachments/assets/e26fc68d-2b5c-4958-8e6c-361e3446a838" />
 <img width="1912" height="604" alt="dz22" src="https://github.com/user-attachments/assets/920f094b-6324-4241-95fc-948c7c8dfe72" />
-
-
-
-
-gitlab-ci.yaml:
-
-
-tages:
-  - test
-  - build
-
-test:
-  stage: test
-  image: golang:1.17
-  script: 
-   - go test .
-
-build:
-  stage: build
-  image: docker:latest
-  script:
-   - docker build .
-
-
+<img width="2490" height="643" alt="ci yml" src="https://github.com/user-attachments/assets/cfd262f0-86d0-4f28-92f6-cbd9cb1964c6" />
 
