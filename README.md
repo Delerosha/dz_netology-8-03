@@ -41,14 +41,10 @@
 Запушьте репозиторий на GitLab, изменив origin. Это изучалось на занятии по Git.
 Создайте .gitlab-ci.yml, описав в нём все необходимые, на ваш взгляд, этапы.
 В качестве ответа в шаблон с решением добавьте:
-
 файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
+<img width="1318" height="970" alt="dz222" src="https://github.com/user-attachments/assets/e26fc68d-2b5c-4958-8e6c-361e3446a838" />
+<img width="1915" height="448" alt="dz22" src="https://github.com/user-attachments/assets/8e517f9c-8d3c-43d1-8018-c235c9a9388c" />
 
 
-скриншоты с успешно собранными сборками.
 
-https://github.com/Delerosha/dz_netology-8-03/blob/main/ci.yml.PNG?raw=true
 
-https://github.com/Delerosha/dz_netology-8-03/blob/main/Runners.PNG?raw=true
-
-https://github.com/Delerosha/dz_netology-8-03/blob/main/Runner%202.PNG?raw=true
